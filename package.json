@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2017": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0"
+  }
+}
